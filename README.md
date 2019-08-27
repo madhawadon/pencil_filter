@@ -9,4 +9,4 @@ Using OpenCV and Python, an RGB color image can be converted by following the st
   3. Apply Gaussian blur to the image.
   4. Blend the greyscale image from step 1 and blurred image from step 3.
   
-  <img src="fe.png" width="400"> <img src="convert_img1.png" width="400">
+  <img src="fe.png" width="400"> -> <img src="convert_img1.png" width="400">
