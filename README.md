@@ -1,6 +1,6 @@
 # pencil_filter
 
-## Description
+## Overview
 This python code snippet allows the user to convert an RGB image into a pencil sketch.
 
 Using OpenCV and Python, an RGB color image can be converted by following the steps below.
